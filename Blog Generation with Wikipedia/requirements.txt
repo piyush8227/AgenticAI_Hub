@@ -1,0 +1,10 @@
+langchain
+python-dotenv
+langchain-core
+langchain-community
+bs4
+wikipedia
+langchain-groq
+langgraph
+langgraph-cli[inmem]
+pydantic
