@@ -1,0 +1,7 @@
+{
+    "dependencies":["."],
+    "graphs":{
+      "code_reviewer":"./code_reviewer.py:graph"
+    },
+    "env":"./.env"
+  }
